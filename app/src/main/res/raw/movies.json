@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0",
+    "title": "Gremlins",
+    "description": "A boy inadvertantly breaks 3 important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.",
+    "studio": "Warner Bros.",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/classics/FLV/gremlins.mp4",
+    "category": "Comedy",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/caps/gremlins.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/caps/gremlins.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Evil Dead (2013)",
+    "description": "Mia, a young woman struggling with sobriety, heads to a remote cabin with her brother and a group of friends, where the discovery of a Book of the Dead leads to danger and horror.",
+    "studio": "TriStar Pictures",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/flvideo/2442.mp4",
+    "category": "Horror",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/caps/evildead2013c.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/caps/evildead2013c.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Escape from New York",
+    "description": "In 1997, when the US President crashes into Manhattan, now a giant max. security prison, a convicted bank robber is sent in for a rescue.",
+    "studio": "TriStar Pictures",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/classics/HD/escapefromnewyork720.mp4",
+    "category": "Action",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/big/zoom/escapefromnewyork.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/big/zoom/escapefromnewyork.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Man of Steel",
+    "description": "A young itinerant worker is forced to confront his secret extrastellar origin when Earth is invaded by members of his own race.",
+    "studio": "Warner Bros.",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/hd/manofsteele720.mp4",
+    "category": "Action",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/caps/manofsteele.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/caps/manofsteele.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Carrie (1976)",
+    "description": "Carrie White is a shy young girl who doesn't make friends easily. After her class mates taunt her about her horrified reaction to her totally unexpected first period one of them takes pity on her and gets Tommy Ross, her boyfriend and class hunk to invite Carrie to the senior prom. Meanwhile another girl who has been banned from the prom for her continued aggressive behaviour is not as forgiving and plans a trick to embarrass Carrie in front of the whole school. What she doesn't realise is that Carrie is ... gifted, and you really don't want to get her angry.",
+    "studio": "MGM",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/classics/HD/carrie720.mp4",
+    "category": "Horror",
+    "cardImageUrl": "http://www.movie-list.com/img/posters/big/carrie.jpg",
+    "bgImageUrl": "http://www.movie-list.com/img/posters/big/carrie.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Army of Darkness",
+    "description": "A modern-day man travels back to medieval time to fightan army of the dead. Groovy.",
+    "studio": "Universal",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/classics/FLV/armyofdarkness.mp4",
+    "category": "Comedy",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/big/armyofdarkness.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/big/armyofdarkness.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Planet of the Apes (1968)",
+    "description": "An astronaut crew crash lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.",
+    "studio": "20th Century Fox",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/classics/FLV/planetoftheapes68b.mp4",
+    "category": "Action",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/caps/planetoftheapes68b.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/caps/planetoftheapes68b.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Rocky Horror Picture Show",
+    "description": "A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter.",
+    "studio": "20th Century Fox",
+    "videoUrl": "http://ct1.elfilm.com/video/o/7789-1325341984.mp4",
+    "category": "Comedy",
+    "cardImageUrl": "http://ia.imdb.com/media/imdb/01/I/24/95/02m.jpg",
+    "bgImageUrl": "http://ia.imdb.com/media/imdb/01/I/24/95/02m.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Cabin in the Woods",
+    "description": "Five friends go for a break at a remote cabin in the woods, where they get more than they bargained for. Together, they must discover the truth behind the cabin in the woods.",
+    "studio": "Lions Gate",
+    "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/hd/cabininthewoods720.flv",
+    "category": "Horror",
+    "cardImageUrl": "https://www.movie-list.com/img/posters/caps/cabininthewoods.jpg",
+    "bgImageUrl": "https://www.movie-list.com/img/posters/caps/cabininthewoods.jpg"
+  }
+]
